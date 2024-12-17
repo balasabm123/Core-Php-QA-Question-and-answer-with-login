@@ -1,0 +1,29 @@
+#img{
+    height: 100px;
+}
+a{
+    color: rgb(4, 120, 124) !important;
+}
+.header{
+    text-align: center;
+}
+
+.list-group {
+    display: flex ;
+    flex-direction: column;
+    padding: 0px 0px 7px 7px!important;
+    margin-bottom: 0;
+    border-radius: .25rem;
+    /* width: 482px; */
+}
+.list-group-item a,.que{
+    text-decoration: none;
+    color: rgb(21, 105, 138);
+}
+
+.delet_req{
+     display: flex;
+     justify-content: end;
+     color: rgb(177, 30, 30) !important;
+}
+ 
